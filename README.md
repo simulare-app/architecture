@@ -1,6 +1,6 @@
 # Simulare architecture
 
-Governance structure, architectural decision records, and request for comments for the Simulare platform.
+Governance structure, decisions, and comments for the Simulare platform.
 
 ## About Simulare
 
@@ -20,7 +20,7 @@ Developed by [Eolian Ab](https://eolian.dev) and governed by [Omnifi Foundation]
 - **X-Plane** — Rust-based flight simulator plugin with gRPC communication
 
 ### Specifications
-- **Architecture** — governance, architectural decision records, request for comments
+- **Architecture** — governance, decisions, and comments
 - **WASI** — WebAssembly System Interface component definitions
 - **Cap'n Proto** — serialisation schemas
 - **OpenAPI** — HTTP API definitions
@@ -30,13 +30,13 @@ Developed by [Eolian Ab](https://eolian.dev) and governed by [Omnifi Foundation]
 - **Enterprise** — business services and enterprise web application
 - **Native** — Swift (iOS/macOS) and Kotlin Multiplatform (Android) companion applications
 
-## Decision records
+## Decisions
 
-Architectural decision records are stored in `decisions/` using the template in `templates/adr.md`.
+Decisions are stored in `decisions/` using the template in `templates/decision.md`.
 
-## Requests for comments
+## Comments
 
-Requests for comments are stored in `rfcs/` using the template in `templates/rfc.md`.
+Comments are stored in `comments/` using the template in `templates/comment.md`.
 
 ## Contributing
 
