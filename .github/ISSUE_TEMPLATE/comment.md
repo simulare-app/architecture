@@ -1,5 +1,5 @@
 ---
-name: Request for comments
+name: Comment
 about: Propose a substantial change for discussion
 labels: documentation
 ---
